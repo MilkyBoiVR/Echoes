@@ -62,7 +62,8 @@ class MilkyBoiVREchoesApp:
         self.commands = [
             ("3v3 Bots", "-level mpl_arena_a -gametype Echo_Arena_First_Match -region euw"),
             ("Private", "-level mpl_arena_a -gametype Echo_Arena_Private -region euw"),
-            ("Social Lobby", "-level mpl_lobby_b2 -gametype social_2.0 -region euw")
+            ("Social Lobby", "-level mpl_lobby_b2 -gametype social_2.0 -region euw"),
+            ("Combat", "-level mpl_combat_fission -gametype Echo_Combat_Private -region euw") 
         ]
 
         for label, args in self.commands:
@@ -114,6 +115,7 @@ class MilkyBoiVREchoesApp:
         gametype_dropdown.pack(pady=5)
 
         ttk.Button(custom_frame, text="START CUSTOM", command=self.start_custom).pack(pady=10)
+        
 
     def create_settings_section(self):
         settings_frame = ttk.LabelFrame(self.root, text="SETTINGS")
@@ -133,11 +135,17 @@ class MilkyBoiVREchoesApp:
         else:
             print("Please select a level and gametype.")
 
+    def start_combat(self):
+        level = "mpl_combat_fission"  # Example level
+        gametype = "Echo_Combat"  # Example gametype
+
+        cmd = f'"{self.settings["echovr_path"]}" -level {level} -gametype {gametype} -region euw'
+        self.close_echovr_and_run(cmd)
+
     def close_echovr_and_run(self, cmd, args=""):
         subprocess.run(["taskkill", "/f", "/im", "echovr.exe"], shell=True)  # Close Echo VR
         time.sleep(1)
-        subprocess.Popen(f"{cmd} {args}", shell=True)  # Launch Echo VR
-
+        subprocess.Popen(f"{cmd} {args}", shell=True)
     def change_file_path(self):
         file_path = filedialog.askopenfilename(filetypes=[("EXE Files", "*.exe")])
         if file_path:
