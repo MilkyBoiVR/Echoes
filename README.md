@@ -10,7 +10,6 @@ A simple easy-to-use application so people can run Offline Echo VR easily, with 
 * Built in presets including 3v3 Bots, Private, Social Lobby
 * Custom builder using the dropdown menu, you only have to select the level and gametype
 * Automatically runs behaviours for you so you don't have to type them yourself
-* Change the file path of your OfflineEcho.exe file
 
 ## **TUTORIALS**
 
