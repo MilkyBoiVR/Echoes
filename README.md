@@ -11,6 +11,8 @@ A simple easy-to-use application so people can run Offline Echo VR easily, with 
 * Custom builder using the dropdown menu, you only have to select the level and gametype
 * Automatically runs behaviours for you so you don't have to type them yourself
 
+/assets/images/screenshot.png
+
 ## **TUTORIAL**
 
 * https://www.youtube.com/watch?v=tFZpxc8VQAo
