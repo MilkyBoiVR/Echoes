@@ -30,7 +30,7 @@ A simple easy-to-use application so people can run Offline Echo VR easily, with 
 ## **HELP**
 
 If you need any support, please contact @milkyboivr on Discord
-* Echoes Installation - https://youtu.be/5Rt-UmCVoek
+* Echoes Installation - NEW VIDEO TO BE UPLOADED ON 16/08/2023
 * Python Installation Help - https://www.youtube.com/watch?v=brX8x-qkACs
 * Offline Echo Installation - NEW VIDEO TO BE UPLOADED ON 16/08/2023
 
