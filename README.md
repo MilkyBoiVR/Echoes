@@ -11,7 +11,7 @@ A simple easy-to-use application so people can run Offline Echo VR easily, with 
 * Custom builder using the dropdown menu, you only have to select the level and gametype
 * Automatically runs behaviours for you so you don't have to type them yourself
 
-/assets/images/screenshot.png
+![screenshot](https://github.com/MilkyBoiVR/Echoes/assets/111146381/b8c955cd-1b4b-4925-ab1b-38816264f5b1)
 
 ## **TUTORIAL**
 
