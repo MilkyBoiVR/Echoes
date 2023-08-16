@@ -14,14 +14,14 @@ A simple easy-to-use application so people can run Offline Echo VR easily, with 
 
 ## **TUTORIALS**
 
-* Echoes Installation - https://youtu.be/5Rt-UmCVoek
+* Echoes Installation - NEW VIDEO TO BE UPLOADED ON 16/08/2023
 * Python Installation Help - https://www.youtube.com/watch?v=brX8x-qkACs
-* Offline Echo Installation - https://www.youtube.com/watch?v=A7-z8wkXzUg
+* Offline Echo Installation - NEW VIDEO TO BE UPLOADED ON 16/08/2023
 
 ## **INSTRUCTIONS**
 
 1. Download Python - https://www.python.org/downloads/windows/
-2. Download Offline Echo - https://www.reddit.com/r/EchoArena/comments/15fxn10/how_to_play_echo_vr_while_offline_pcvr_only/
+2. Download Offline Echo - https://echo-foundation.pages.dev/offline_echo/
 3. Download the ZIP file - (Green Code Button)
 4. Extract the ZIP file
 5. Install requirements.txt from your MilkyBoiVREchoes installation directory using ```pip install -r requirements.txt```
@@ -33,7 +33,7 @@ A simple easy-to-use application so people can run Offline Echo VR easily, with 
 If you need any support, please contact @milkyboivr on Discord
 * Echoes Installation - https://youtu.be/5Rt-UmCVoek
 * Python Installation Help - https://www.youtube.com/watch?v=brX8x-qkACs
-* Offline Echo Installation - https://www.youtube.com/watch?v=A7-z8wkXzUg
+* Offline Echo Installation - NEW VIDEO TO BE UPLOADED ON 16/08/2023
 
 ## **THANKS**
 
