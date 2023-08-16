@@ -11,28 +11,26 @@ A simple easy-to-use application so people can run Offline Echo VR easily, with 
 * Custom builder using the dropdown menu, you only have to select the level and gametype
 * Automatically runs behaviours for you so you don't have to type them yourself
 
-## **TUTORIALS**
+## **TUTORIAL**
 
-* Echoes Installation - NEW VIDEO TO BE UPLOADED ON 16/08/2023
-* Python Installation Help - https://www.youtube.com/watch?v=brX8x-qkACs
-* Offline Echo Installation - NEW VIDEO TO BE UPLOADED ON 16/08/2023
+* https://www.youtube.com/watch?v=tFZpxc8VQAo
 
 ## **INSTRUCTIONS**
 
 1. Download Python - https://www.python.org/downloads/windows/
 2. Download Offline Echo - https://echo-foundation.pages.dev/offline_echo/
-3. Download the ZIP file - (Green Code Button)
-4. Extract the ZIP file
-5. Install requirements.txt from your MilkyBoiVREchoes installation directory using ```pip install -r requirements.txt```
-6. Run ```Echoes.py``` from the installation directory and you will now have access to the software
-7. **RECOMMENDED TO CREATE A SHORTCUT ON YOUR DESKTOP SO YOU CAN FIND THE PROGRAM EASIER AND RUN**
+3. Place the Offline Echo Files into the same path as ```echovr.exe```
+4. Download the ZIP file - (Green Code Button)
+5. Extract the ZIP file
+6. Install requirements.txt from your MilkyBoiVREchoes installation directory using ```pip install -r requirements.txt``` when typing CMD (and pressing enter) at the address bar
+7. Run ```Echoes.py``` from the installation directory and you will now have access to the software
+8. **RECOMMENDED TO CREATE A SHORTCUT ON YOUR DESKTOP SO YOU CAN FIND THE PROGRAM EASIER AND RUN**
 
 ## **HELP**
 
 If you need any support, please contact @milkyboivr on Discord
-* Echoes Installation - NEW VIDEO TO BE UPLOADED ON 16/08/2023
+* Echoes and Offline Echo Installation - https://www.youtube.com/watch?v=tFZpxc8VQAo
 * Python Installation Help - https://www.youtube.com/watch?v=brX8x-qkACs
-* Offline Echo Installation - NEW VIDEO TO BE UPLOADED ON 16/08/2023
 
 ## **THANKS**
 
