@@ -1,4 +1,9 @@
 # **Echoes**
+
+# DISCONTINUED PROJECT (for now)
+
+Is still downloadable but after this project went live, Spark has now got the exact same system, Spark being a tool for Echo VR having a much larger user base than this project, I have decided to stop any future plans and updates with the app (at this moment in time). Thanks to everyone who tested the software, I'll be sure to come out with some new stuff somepoint.
+
 ## **DESCRIPTION**
 
 A simple easy-to-use application so people can run Offline Echo VR easily, with built in presets and easy to use custom builder without you having to manually close Echo VR or type in behaviours.
