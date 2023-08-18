@@ -2,7 +2,7 @@
 
 # DISCONTINUED PROJECT (for now)
 
-Is still downloadable but after this project went live, Spark has now got the exact same system, Spark being a tool for Echo VR having a much larger user base than this project, I have decided to stop any future plans and updates with the app (at this moment in time). Thanks to everyone who tested the software, I'll be sure to come out with some new stuff somepoint.
+Unexpectedly, the tool **Spark** has released the *same system after the release of this app*. But despite this, Spark does have a much larger user base, which will end up leading down to more people using spark over the Echoes application. The program can still be downloaded, but (for now) I have stopped any future plans/updates with the project. Thanks to everyone who tested out the app and for sharing it (especially this being my first published project). 
 
 ## **DESCRIPTION**
 
