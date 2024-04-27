@@ -1,8 +1,9 @@
-# **Echoes**
+# **Echoes (DISCONTINUED)**
 https://www.youtube.com/watch?v=tFZpxc8VQAo
 ## **DESCRIPTION**
 
 A simple easy-to-use application so people can run Offline Echo VR easily, with built in presets and easy to use custom builder without you having to manually close Echo VR or type in behaviours.
+This project has been discontinued due to the release of [EchoRelay](https://github.com/Xenomega/EchoRelay). Some still find they have to launch EchoVR with arguments, therefore this tool still being fairly useful.
 
 ## **FEATURES**
 
