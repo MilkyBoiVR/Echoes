@@ -1,4 +1,4 @@
-# **Arugment Builder (Echoes)**
+# **Argument Builder (Echoes)**
 https://www.youtube.com/watch?v=tFZpxc8VQAo
 ## **DESCRIPTION**
 
